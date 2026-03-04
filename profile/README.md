@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/IA-para-DEVs-SD/.github/main/images%20/LAB365-Colorido.png" alt="LAB 365" width="300"/>
+
   
   <img src="https://raw.githubusercontent.com/LAB-365-IA-para-Devs/.github/main/images/SENAI365-Branco.png" alt="LAB 365" width="300"/>
   
