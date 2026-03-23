@@ -118,7 +118,7 @@ _Feito com 💜 pelo time LAB 365 · SENAI/SC_
 meu-projeto/
 ├── .kiro/                  # Especificações do Kiro/IA
 ├── .github/                # Especificações e configurações para Github
-├── [backend/front]/        # Monorepo podendo ser backend e front 
+├── [backend/frontend]/     # Monorepo podendo ser backend e front 
 │   ├── docs/               # Documentações
 │   ├── tests/              # Testes automatizados
 │   ├── src/                # Diretórios com códigos do monorepo
