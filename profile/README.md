@@ -114,6 +114,7 @@ _Feito com 💜 pelo time LAB 365 · SENAI/SC_
 
 ## Estrutura de repositórios da organização
 
+```
 meu-projeto/
 ├── .kiro/                  # Especificações do Kiro/IA
 ├── .github/                # Especificações e configurações para Github
@@ -127,3 +128,4 @@ meu-projeto/
 ├── docker-compose.yml      # Opcional: Orquestração para rodar local
 └── README.md               # Documentação inicial do projeto
 └── .gitignore              # Ignora arquivos e pastas no versionamento
+```
