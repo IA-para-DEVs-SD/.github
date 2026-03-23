@@ -110,3 +110,20 @@ Este repositório reúne projetos, materiais e recursos desenvolvidos pelos **al
 _Feito com 💜 pelo time LAB 365 · SENAI/SC_
 
 </div>
+
+
+## Estrutura de repositórios da organização
+
+meu-projeto/
+├── .kiro/                  # Especificações do Kiro/IA
+├── .github/                # Especificações e configurações para Github
+├── [backend/front]/        # Monorepo podendo ser backend e front 
+│   ├── docs/               # Documentações
+│   ├── tests/              # Testes automatizados
+│   ├── src/                # Diretórios com códigos do monorepo
+│   ├──.env.example         # Variáveis de ambiente 
+├── scripts/                # Opcional: Scripts gerais do repositório
+├── Dockerfile              # Opcional: Imagem Docker
+├── docker-compose.yml      # Opcional: Orquestração para rodar local
+└── README.md               # Documentação inicial do projeto
+└── .gitignore              # Ignora arquivos e pastas no versionamento
