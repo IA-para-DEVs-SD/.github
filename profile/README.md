@@ -151,6 +151,7 @@ Padrão do Gitflow
 Padrão do commit semântico
 
 "tipo: breve descrição
+
 descrição mais detalhada (opcional)"
 
 Tipos:
